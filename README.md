@@ -11,3 +11,7 @@ Type: npm run server
 Type: npm start
 
 Open the project on http://localhost:4200 .
+
+## Citation
+
+This project was created following the Pluralsight tutorial name "Angular Fundamentals" by Jim Cooper and Joe Eames.
